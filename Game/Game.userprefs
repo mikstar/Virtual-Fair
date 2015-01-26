@@ -1,9 +1,10 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\ScoreSystem.cs">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\SpawnSystem.cs">
     <Files>
-      <File FileName="Assets\Scripts\Target.cs" Line="21" Column="1" />
-      <File FileName="Assets\Scripts\ScoreSystem.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Target.cs" Line="24" Column="3" />
+      <File FileName="Assets\Scripts\ScoreSystem.cs" Line="20" Column="1" />
+      <File FileName="Assets\Scripts\SpawnSystem.cs" Line="26" Column="66" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

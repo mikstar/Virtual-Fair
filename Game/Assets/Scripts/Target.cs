@@ -12,15 +12,12 @@ public class Target : MonoBehaviour {
 		pointsWorth = pnts;
 	}
 	
-	// Update is called once per frame
-	void Update () {
-	
-	}
+
 
 	void OnMouseDown ()
 	{
-		Debug.Log("Hit");
 		scoreScript.addPoints(pointsWorth);
 		Destroy(gameObject);
+
 	}
 }
